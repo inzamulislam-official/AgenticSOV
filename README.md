@@ -49,3 +49,8 @@ Once the core engine is stable, we plan to evolve the MVP with the following fea
    * Semantic brand positioning [5]
    * Automated GEO (Generative Engine Optimization) recommendations [5, 9]
    * AI-agent procurement visibility [5]
+
+
+ ## Architecture
+
+![AgenticSOV Architecture](docs/AgenticSOV Cover.jpg)
